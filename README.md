@@ -52,6 +52,7 @@ It includes tables such as `Employee`, `Customer`, `Invoice`, `Invoice_Line`, `T
 ![Query Screenshots](https://github.com/sahudkrum783-sketch/Music-Store-Analysis---SQL-Project/blob/main/screenshots/Screenshot%201.png)
 ![Query Screenshots](https://github.com/sahudkrum783-sketch/Music-Store-Analysis---SQL-Project/blob/main/screenshots/Screenshot%202.png)
 ![Query Screenshots](https://github.com/sahudkrum783-sketch/Music-Store-Analysis---SQL-Project/blob/main/screenshots/Screenshot%203.png)
+![Query Screenshots](https://github.com/sahudkrum783-sketch/Music-Store-Analysis---SQL-Project/blob/main/screenshots/Screenshot%204.png)
 
 
 ---
