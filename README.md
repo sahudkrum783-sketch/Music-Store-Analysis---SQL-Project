@@ -49,7 +49,8 @@ It includes tables such as `Employee`, `Customer`, `Invoice`, `Invoice_Line`, `T
 ---
 
 ## 📸 Screenshots  
-(Add query outputs / ER diagrams / dashboard snapshots here)  
+![Query Screenshots](link-to-image)
+
 
 ---
 
