@@ -49,7 +49,7 @@ It includes tables such as `Employee`, `Customer`, `Invoice`, `Invoice_Line`, `T
 ---
 
 ## 📸 Screenshots  
-![Query Screenshots](link-to-image)
+![Query Screenshots]((https://github.com/sahudkrum783-sketch/Music-Store-Analysis---SQL-Project/blob/main/screenshots/Screenshot%201.png))
 
 
 ---
